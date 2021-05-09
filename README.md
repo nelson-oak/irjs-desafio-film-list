@@ -23,8 +23,8 @@ yarn
 yarn dev
 ```
 
-### Testar a aplicação
+### Executar FakeAPI
 
 ```bash
-yarn test
+yarn server
 ```
